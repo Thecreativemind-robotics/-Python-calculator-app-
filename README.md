@@ -2,8 +2,6 @@ Sv# 🧮 Python Calculator
 
 A fully working desktop calculator app built with Python's built-in `tkinter` library. No external dependencies required.
 
-![<img>
-](calculator.png)
 
 ## Features
 
