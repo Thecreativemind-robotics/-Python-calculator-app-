@@ -2,7 +2,7 @@
 
 A fully working desktop calculator app built with Python's built-in `tkinter` library. No external dependencies required.
 
-![<img width="430" height="781" alt="image" src="https://github.com/user-attachments/assets/51b17b5a-6634-47dd-be69-dcbb22f9038d" />
+![<img width="430" height="781" alt="image" src="https://github.com/user-attachments/assets/03b1d672-becb-41db-9635-9f8414fee5ad" />
 ](calculator.png)
 
 ## Features
@@ -54,4 +54,4 @@ The app is a single Python file built with `tkinter`:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT LICENSE](LICENSE).
