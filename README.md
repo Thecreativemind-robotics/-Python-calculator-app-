@@ -2,7 +2,7 @@
 
 A fully working desktop calculator app built with Python's built-in `tkinter` library. No external dependencies required.
 
-![<img width="430" height="781" alt="image" src="https://github.com/user-attachments/assets/1b4a5047-8f1f-48bb-b9fd-ff7a9c26185a" />
+![<img width="430" height="781" alt="image" src="https://github.com/user-attachments/assets/51b17b5a-6634-47dd-be69-dcbb22f9038d" />
 ](calculator.png)
 
 ## Features
